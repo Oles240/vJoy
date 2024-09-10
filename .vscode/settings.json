@@ -1,0 +1,8 @@
+{
+    "files.exclude": {},
+    "python.testing.pytestArgs": [
+        "SDK"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
